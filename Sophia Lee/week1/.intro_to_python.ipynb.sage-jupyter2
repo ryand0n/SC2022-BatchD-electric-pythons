@@ -106,5 +106,5 @@
 {"cell_type":"markdown","id":"f0f924","input":"This can get quite annoying with longer variable names, so we can do the following","pos":12,"type":"cell"}
 {"cell_type":"markdown","id":"f32d25","input":"Sometimes we want to update the value of one variable, so we can do this","pos":10,"type":"cell"}
 {"cell_type":"markdown","id":"f68c3d","input":"# Modules \\(Pandas and numpy\\)\n\n### Why are there Pandas in Python? What is numpy?\n\nIn the following section we will be covering modules. Above, we leaned about functions and the power that they have. Modules let us use functions that other people have created to solve problems that we commonly encounter \\-\\- you can think of this as standing on the shoulders of giants by being just lazy enough to want to write code over and over again. \n\nFor example, if we find that we frequently have to get a random number, instead of coding that entire process every time, you could just import a function that either you or someone else created in the past. Basically, modules and importing lets us have access to the work of many other coders, making it a very powerful tool.\n","pos":78,"type":"cell"}
-{"id":0,"time":1660066198692,"type":"user"}
-{"last_load":1660078461761,"type":"file"}
+{"id":0,"time":1660165349641,"type":"user"}
+{"last_load":1660150425864,"type":"file"}
