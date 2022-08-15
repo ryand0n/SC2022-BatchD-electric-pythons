@@ -101,5 +101,5 @@
 {"cell_type":"markdown","id":"f0c30d","input":"Our dataframe is pretty small so it's easy to show the whole thing in the output, but for larger dataframes it is important to only show a few of the rows so we don't have to scroll all over. To do this, we can use the df.head\\(x\\) function to show the first x rows of the dataframe or tail\\(x\\) to show the last x number of rows\n","pos":89,"type":"cell"}
 {"cell_type":"markdown","id":"f204b1","input":"In the next block, create a while loop that prints out all of the even numbers between 1 and 10. Additionally, if the number is between 5 and 9, print the number out a second time.","pos":51,"type":"cell"}
 {"cell_type":"markdown","id":"f501cc","input":"In the next block, create a for loop that counts from 0 to 10 and prints out each number. Additionally, if the number is less than 3, print out \"This is a small number\".","pos":49,"type":"cell"}
-{"id":0,"time":1659983540132,"type":"user"}
-{"last_load":1660236439712,"type":"file"}
+{"id":0,"time":1660325131853,"type":"user"}
+{"last_load":1660324191584,"type":"file"}

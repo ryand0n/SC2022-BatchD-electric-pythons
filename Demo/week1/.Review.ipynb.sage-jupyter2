@@ -1,0 +1,19 @@
+{"backend_state":"init","connection_file":"/projects/b36ed0b0-d7f5-416a-895a-d63c582b0b71/.local/share/jupyter/runtime/kernel-abd12ed2-d849-441a-804f-0724224cadbc.json","kernel":"ds_env","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
+{"cell_type":"markdown","id":"162ee8","input":"Whats the difference between a while loop and a for loop?","pos":6,"type":"cell"}
+{"cell_type":"markdown","id":"260d36","input":"How do I get all the column names of a dataframe?","pos":4,"type":"cell"}
+{"cell_type":"markdown","id":"868cc4","input":"Name 4 different types of variables\n\n","pos":8,"type":"cell"}
+{"cell_type":"markdown","id":"b4f892","input":"How do I access a specific column from a dataframe? Write the method down below","pos":2,"type":"cell"}
+{"cell_type":"markdown","id":"ce2c88","input":"What packages have we learned so far? List them all down below\n\n","pos":0,"state":"done","type":"cell"}
+{"end":1660326919886,"exec_count":28,"id":"a47962","input":"def twosum(nums, target):\n    for i in range(len(nums)):\n        for j in range(i + 1, len(nums)):\n            if nums[i] + nums[j] == target:\n                return [i, j]","kernel":"ds_env","pos":9,"start":1660326919884,"state":"done","type":"cell"}
+{"end":1660327292636,"exec_count":32,"id":"2bac89","input":"for i, n in enumerate(nums):\n    print(i, n)","kernel":"ds_env","output":{"0":{"name":"stdout","text":"0 3\n1 3\n"}},"pos":8.5,"start":1660327292625,"state":"done","type":"cell"}
+{"end":1660327371055,"exec_count":33,"id":"0e4215","input":"def twoSum(nums, target):\n    d = {}\n    for i, n in enumerate(nums):\n        m = target - n\n        if m in d.keys():\n            return [d[m], i]\n        else:\n            d[n] = i","kernel":"ds_env","pos":9.5,"start":1660327371052,"state":"done","type":"cell"}
+{"end":1660327375618,"exec_count":34,"id":"5391de","input":"nums = [2,7,11,15]\ntarget = 9\ntwoSum(nums, target)","kernel":"ds_env","output":{"0":{"data":{"text/plain":"[0, 1]"},"exec_count":34}},"pos":10,"start":1660327375606,"state":"done","type":"cell"}
+{"end":1660327379770,"exec_count":35,"id":"e8b3fe","input":"nums = [3,2,4]\ntarget = 6\ntwoSum(nums, target)","kernel":"ds_env","output":{"0":{"data":{"text/plain":"[1, 2]"},"exec_count":35}},"pos":11,"start":1660327379766,"state":"done","type":"cell"}
+{"end":1660327382724,"exec_count":36,"id":"93fffb","input":"nums = [3,3]\ntarget = 6\ntwoSum(nums, target)","kernel":"ds_env","output":{"0":{"data":{"text/plain":"[0, 1]"},"exec_count":36}},"pos":12,"start":1660327382713,"state":"done","type":"cell"}
+{"id":"19e192","input":"","pos":3,"type":"cell"}
+{"id":"26e421","input":"","pos":13,"type":"cell"}
+{"id":"5d0a62","input":"","pos":5,"type":"cell"}
+{"id":"d23f29","input":"","pos":7,"type":"cell"}
+{"id":"fd65c7","input":"","pos":1,"type":"cell"}
+{"id":0,"time":1660584712918,"type":"user"}
+{"last_load":1660324169872,"type":"file"}

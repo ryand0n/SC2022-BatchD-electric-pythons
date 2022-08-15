@@ -1,0 +1,18 @@
+{"backend_state":"init","connection_file":"/projects/b36ed0b0-d7f5-416a-895a-d63c582b0b71/.local/share/jupyter/runtime/kernel-78710bab-a418-4c04-91d4-f10dd99160b8.json","kernel":"ds_env","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.13"}},"trust":true,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"0f6ac4","input":"","pos":4,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"2915fb","input":"#Given an arry of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly on solution, and and you many not use the same element twice. You can return the answer in any order.","pos":11,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"3a9791","input":"df.column","pos":7,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"713c9b","input":"#The for loop is used for definite loops when the amount of interations are known. The while loop is used when the number of interations are not known.","pos":9,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"8d4456","input":"We have learned Pandas, Plotly, Numpy.","pos":1,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"9dcb0a","input":"","pos":14,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"c1042d","input":"","pos":5,"type":"cell"}
+{"cell_type":"code","exec_count":1,"id":"b75a1b","input":"df.column_name","pos":3,"type":"cell"}
+{"cell_type":"code","exec_count":33,"id":"49c981","input":"def twosum(nums, target):\n    for i in range(len(nums)):\n        for j in range(i + 1, len(nums)):\n            if nums[i] +nums[j] ==target:\n                return [i,j]","pos":12,"type":"cell"}
+{"cell_type":"code","exec_count":35,"id":"47d5d2","input":"nums = [2,7,11,15]\ntarget = 12\ntwosum(nums, target)","pos":13,"type":"cell"}
+{"cell_type":"markdown","id":"1b403c","input":"What packages have we learned so far? List them all down below\n","pos":0,"type":"cell"}
+{"cell_type":"markdown","id":"4bd5b2","input":"Whats the difference between a while loop and a for loop?","pos":8,"type":"cell"}
+{"cell_type":"markdown","id":"4ef56c","input":"How do I access a specific column from a dataframe? Write the method down below","pos":2,"type":"cell"}
+{"cell_type":"markdown","id":"a553ad","input":"How do I get all the column names of a dataframe?","pos":6,"type":"cell"}
+{"cell_type":"markdown","id":"fb69d2","input":"Name 4 different types of variables\n\nFloat, string, integer, boolean\n\n","pos":10,"type":"cell"}
+{"id":0,"time":1660586202291,"type":"user"}
+{"last_load":1660586202419,"type":"file"}

@@ -1,0 +1,18 @@
+{"backend_state":"running","connection_file":"/projects/b36ed0b0-d7f5-416a-895a-d63c582b0b71/.local/share/jupyter/runtime/kernel-f8df0c89-3f0a-4081-b21e-5952d2e344b0.json","kernel":"ds_env","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"5a2d12","input":"THe for loop is uused for definite loops when the amount of iterations are known. The while loop is used when the number of iterations are not known.","pos":7,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"936f8e","input":"df.column name\n","pos":3,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"a55d67","input":"So far we have learned...\nnumpy\npandas\nplotly","pos":1,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"dc804d","input":"df.columns","pos":5,"type":"cell"}
+{"cell_type":"markdown","id":"3a70ec","input":"Whats the difference between a while loop and a for loop?\n\n","pos":6,"type":"cell"}
+{"cell_type":"markdown","id":"866e71","input":"How do I get all the column names of a dataframe?","pos":4,"type":"cell"}
+{"cell_type":"markdown","id":"9bf1ab","input":"Name 4 different types of variables\n\nFloat, string, integer, boolean\n\n","pos":8,"type":"cell"}
+{"cell_type":"markdown","id":"9e83f5","input":"How do I access a specific column from a dataframe? Write the method down below","pos":2,"type":"cell"}
+{"cell_type":"markdown","id":"d54cc4","input":"What packages have we learned so far? List them all down below\n","pos":0,"type":"cell"}
+{"exec_count":27,"id":"fa9a54","input":"def Input (nums = [7,11,10,2], target = 12):\n    nums = return[2,3]\n","kernel":"ds_env","output":{"0":{"ename":"SyntaxError","evalue":"invalid syntax (104903732.py, line 2)","traceback":["\u001b[0;36m  Input \u001b[0;32mIn [27]\u001b[0;36m\u001b[0m\n\u001b[0;31m    nums = return[2,3]\u001b[0m\n\u001b[0m           ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"]}},"pos":12.5,"state":"done","type":"cell"}
+{"id":"258194","input":"","pos":1.5,"type":"cell"}
+{"id":"443917","input":"","pos":15,"type":"cell"}
+{"id":"466b68","input":"def twosum(nums, target)","kernel":"ds_env","pos":14,"type":"cell"}
+{"id":"ba18a7","input":"","pos":7.5,"type":"cell"}
+{"id":"ee3bc0","input":"","pos":7.75,"type":"cell"}
+{"id":0,"time":1660325728426,"type":"user"}
+{"last_load":1660324350479,"type":"file"}

@@ -57,5 +57,5 @@
 {"cell_type":"markdown","id":"eb2e81","input":"**TODO: Can you print the last five rows of the Island and Region columns?** \n\n","pos":23,"type":"cell"}
 {"cell_type":"raw","id":"3ed398","input":"Which penguins species have the most body mass and Flipper length?\n\nChinstrap and Adelie Penguins have around the same Body Mass (g)\n\nGentoo penguins have a higher Body Mass (g) with the highest being:\nBody Mass (g) = 6300\n\n\n\n","pos":56,"type":"cell"}
 {"cell_type":"raw","id":"fdef7e","input":"What do these columns mean?\nFlipper Lengh\nMax = 231mm\nAverage = 197\nused for underwater directional cahnges\nthey are ungainly and clumsy appendages for land use.\n\nStudyName\nSampling expedition from which data were collected and generated\nPenguins of the same study group share similar data (Island, Region, etc.)\nflipper tags are close-fitting metal identification bracelets that scientists attach to a penguin's flipper.\n\nRegion seems unimportant since all penguins are in the same Region\n\n\n\n\n","pos":11,"type":"cell"}
-{"id":0,"time":1660236529614,"type":"user"}
-{"last_load":1660236529695,"type":"file"}
+{"id":0,"time":1660585973704,"type":"user"}
+{"last_load":1660585976078,"type":"file"}
