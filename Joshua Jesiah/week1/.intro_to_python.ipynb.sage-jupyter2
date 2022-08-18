@@ -105,5 +105,5 @@
 {"cell_type":"markdown","id":"f06c0b","input":"Create a few float variables here, then try to add them together, subtract them, multiply them and divide them to see what happens. You may get an error, and thats okay. Its important to know what can and can't be done with a type of data.","pos":17,"type":"cell"}
 {"cell_type":"markdown","id":"f27ac0","input":"You can also get various details about the dataframe with the following functions.\n","pos":98,"type":"cell"}
 {"cell_type":"markdown","id":"fbf628","input":"Or a list of random decimal numbers like this:","pos":82,"type":"cell"}
-{"id":0,"time":1660667534683,"type":"user"}
-{"last_load":1660667533574,"type":"file"}
+{"id":0,"time":1660755409027,"type":"user"}
+{"last_load":1660755407312,"type":"file"}
