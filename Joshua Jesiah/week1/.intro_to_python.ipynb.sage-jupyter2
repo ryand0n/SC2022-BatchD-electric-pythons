@@ -106,4 +106,4 @@
 {"cell_type":"markdown","id":"f27ac0","input":"You can also get various details about the dataframe with the following functions.\n","pos":98,"type":"cell"}
 {"cell_type":"markdown","id":"fbf628","input":"Or a list of random decimal numbers like this:","pos":82,"type":"cell"}
 {"id":0,"time":1660755409027,"type":"user"}
-{"last_load":1660755407312,"type":"file"}
+{"last_load":1660840511444,"type":"file"}

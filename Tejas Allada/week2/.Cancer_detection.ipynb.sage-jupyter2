@@ -68,4 +68,4 @@
 {"cell_type":"markdown","id":"f7000a","input":"**TODO:** Do you remember how to print the first five rows of a pandas dataframe? How about all of the columns? How about the number of rows? Please do that below and google anything you are unsure about. ","metadata":{"id":"rdwjqFR8xdE2"},"pos":4,"type":"cell"}
 {"cell_type":"markdown","id":"f74f00","input":"**TODO:** at this point, all of our data should be numeric except for our diagnosis column. This is because supervised machine learning models work off of numerical data. Use breast_cancer.info() below to check that all our data besides 'diagnosis' are numeric.","metadata":{"id":"X1yX_YUAz8ti"},"pos":16,"type":"cell"}
 {"id":0,"time":1660682922509,"type":"user"}
-{"last_load":1660758221646,"type":"file"}
+{"last_load":1660842769667,"type":"file"}

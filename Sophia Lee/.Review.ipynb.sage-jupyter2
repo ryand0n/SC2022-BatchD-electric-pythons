@@ -14,5 +14,5 @@
 {"cell_type":"markdown","id":"4ef56c","input":"How do I access a specific column from a dataframe? Write the method down below","pos":2,"type":"cell"}
 {"cell_type":"markdown","id":"a553ad","input":"How do I get all the column names of a dataframe?","pos":6,"type":"cell"}
 {"cell_type":"markdown","id":"fb69d2","input":"Name 4 different types of variables\n\nFloat, string, integer, boolean\n\n","pos":10,"type":"cell"}
-{"id":0,"time":1660586202291,"type":"user"}
-{"last_load":1660586202419,"type":"file"}
+{"id":0,"time":1660844318031,"type":"user"}
+{"last_load":1660844318055,"type":"file"}

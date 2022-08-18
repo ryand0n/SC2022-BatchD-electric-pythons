@@ -107,5 +107,5 @@
 {"cell_type":"markdown","id":"eb70f8","input":"In the next block, create a while loop that prints out all of the even numbers between 1 and 10. Additionally, if the number is between 5 and 9, print the number out a second time.\n\n","pos":52,"type":"cell"}
 {"cell_type":"markdown","id":"eed573","input":"### Variables","pos":2,"type":"cell"}
 {"cell_type":"markdown","id":"fb5ea2","input":"Variables work by assigning a value to a specific word or string of characters. It can be done using the \"=\" sign. This assigns whatever is on the right the string of characters on the left. We'll go ahead and try assigning a few variables in the next block.","pos":3,"type":"cell"}
-{"id":0,"time":1660759006754,"type":"user"}
-{"last_load":1660582343299,"type":"file"}
+{"id":0,"time":1660853216110,"type":"user"}
+{"last_load":1660853215999,"type":"file"}
