@@ -86,4 +86,4 @@
 {"cell_type":"markdown","id":"da652b","input":"### Code Your Own Machine Learning Model\n\nIt's time for us to create our own classifier. Let's go with an [SVM](https://www.youtube.com/watch?v=_YPScrckx28). We will do the first step for you.\n\nI know it was a lot of information in the last section, but the code is *basically* the same. Since our data is already split, you will follow the same steps to fit your model, make some predictions, evaluate the performance, and visualize your confusion matrix.\n\n","metadata":{"id":"ObvQ_3pPmPBf"},"pos":58,"type":"cell"}
 {"cell_type":"markdown","id":"efa094","input":"### Step 2: Do Your Research\nThat is a ton of columns. That is a ton of data! Where do we start? \n\nYou should probably do some research on this dataset to find out what the columns mean. I got it on kaggle - you can read about it here: [Wisconsin Breast Cancer Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).\n","metadata":{"id":"XjS_4CFYxx52"},"pos":11,"type":"cell"}
 {"id":0,"time":1660857782300,"type":"user"}
-{"last_load":1660928338727,"type":"file"}
+{"last_load":1661184672842,"type":"file"}
